@@ -1,0 +1,35 @@
+.header
+{
+    background: #b7a5a5;
+}
+
+.header-title
+{
+    text-align: center;
+}
+
+.navegacion
+{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.navegacion-ul
+{
+    padding: 10px;
+}
+
+.navegacion-ul li
+{
+    display: inline-block;
+    padding: 8px;
+
+}
+
+.navegacion-ul li a
+{
+    text-decoration: none;
+    color: #000000;
+}
+

@@ -1,4 +1,75 @@
+<<<<<<< HEAD
 .footer
 {
     background: red;
 }
+=======
+
+body
+{
+    background: #50504f;
+    height: 100vh;
+    width: 90%;
+    border: 2px solid red;
+    
+}
+
+.header
+{
+    background: #b7a5a5;
+}
+
+.header-title
+{
+    text-align: center;
+}
+
+.navegacion
+{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+
+.navegacion-ul
+{
+    padding: 10px;
+}
+
+.navegacion-ul li
+{
+    display: inline-block;
+    padding: 8px;
+
+}
+
+.navegacion-ul li a
+{
+    text-decoration: none;
+    color: #000000;
+}
+
+
+.footer
+{
+    height: 86%;
+    display: flex;
+    border: 2px solid black;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.footer-container
+{
+    background: red;
+    display: inline-block;
+    height: auto;
+    text-align: center;
+}
+   
+.footer-container p
+{
+    text-align: center;
+    font-size: 25px;
+}
+>>>>>>> 615a26a93483bf347f09c53aaca783c00a79bdbb

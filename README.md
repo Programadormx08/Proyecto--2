@@ -4,8 +4,5 @@
 ------------
 
 Este proyecto se da gracias a los conocimientos aprendidos durante el curso de <a href="platzi.com">Platzi</a>
-<<<<<<< HEAD
-=======
 En el puedes aprender todos los conocimientos necesarios para ser un experto en git.
 Incluye ejemplos en windows, linux y mac.
->>>>>>> 0435152 (SS.OO)
